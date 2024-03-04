@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pandashot App
+# Taskify
 
 ### Gestionador de tareas.
 Taskify es una aplicación web simple desarrollada con React, Django REST Framework y SQL, diseñada para gestionar tareas y proyectos de manera eficiente.
