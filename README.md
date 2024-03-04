@@ -13,7 +13,7 @@ Taskify es una aplicación web simple desarrollada con React, Django REST Framew
 * Gestión de tareas con etiquetado de estado "pendiente" o "completada".
 * Interfaz de usuario intuitiva y fácil de usar.
 * Almacenamiento y recuperación de datos básicos mediante SQL.
-* 
+
 </div>
 
 ## Aclaración de uso
