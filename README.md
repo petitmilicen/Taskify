@@ -2,7 +2,7 @@
 
 # Taskify
 
-### Task manager.
+### Task manager
 Taskify is a web-based application developed in React, Django REST Framework y SQL, designed for task management.
 
 ## Features
